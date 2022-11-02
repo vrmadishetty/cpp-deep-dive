@@ -24,4 +24,17 @@ int main()
 	return 0;
 }
 
+#if 0
+	If the sum of the factor of the given number and 
+	the given number whihc is multiplied with 2. equals,
+	then it is perfect number.
 
+	Ex:
+		Input: 6
+			Factors of the input number: 1, 2, 3, 6
+			Sum of the factors: 1+2+3+6 = 12
+		Now Input multiplied with 2 i.e 2*6 = 12
+
+		Hence 12 == 12
+		6 is a perfect number. 
+#endif
